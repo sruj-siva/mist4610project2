@@ -13,7 +13,7 @@
 # Describing your dataset and what data it contains:
 This dataset comes from CA Safe Cosmetics Program in the California Department of Public Health (CDPH) and focuses on collecting information on chemicals suspected to cause cancer, birth defects, or other developmental or reproductive harm. The rows display a certain product with a matching chemical found in the product. Allows users to see which companies are using which ingredients and differences. Allows us to see specific trends within the industry as the data uses specific details : Usage, names, CAS numbers, and specific dates!
 
-
+!image(https://github.com/sruj-siva/mist4610project2/blob/main/Screenshot%202025-04-27%20165506.png)
 
 # Question 1 and why it’s so interesting:
 ## What are the top 10 cosmetic companies by chemical count:
