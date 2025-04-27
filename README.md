@@ -64,6 +64,10 @@ Cocamide DEA (Cocamide Diethanolamine) is another chemical ingredient that has r
 ### Further analysis:
 We could look at what exact products these chemicals are found in and make further implications on what specific products may be harmful for or use. While the FDA regulates cosmetic products and has banned certain chemicals from being used in cosmetic products or mandated a chemical to be removed from cosmetic products, this does not happen very often in the grade scheme of the vast number of chemicals used in cosmetics. Thus, consumers should be on the look-out for these chemicals in their products
 
+# Tableau Packaged Workbook
+
+
+
 
 
 
