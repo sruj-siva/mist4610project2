@@ -28,6 +28,8 @@ To address our research question, we placed the average chemical count in the co
 
 ## Analysis and Results:
 
+![image](https://github.com/user-attachments/assets/f3053139-95d2-4827-9f0d-696c57ae2f79)
+
 ### Who’s at the top?
 Leading the list with the highest average of approximately 4.8 harmful chemicals per product is Regis Corporation, based on a total of 807 identified harmful chemicals across their 168 products. Closely following in second place is Cosmopharm, averaging around 4.5 harmful chemicals per product, derived from 58 harmful chemicals found in their 12 products. Ranking third is Vitamin World, Inc., with an average of 3.3 harmful chemicals per product, stemming from 109 harmful chemicals across 33 products. Chrome Hearts LLC takes the fourth spot, averaging 3.2 harmful chemicals per product, with 71 harmful chemicals identified in their 22 products. Good ‘N Natural ranks fifth, averaging exactly 3 harmful chemicals per product, based on 45 harmful chemicals in their 15 products. Coming in sixth is Puritan’s Pride, averaging 2.9 harmful chemicals per product, with 160 harmful chemicals spanning 54 products. Dermaquest, Inc. holds the seventh position, averaging 2.6 harmful chemicals per product from 39 harmful chemicals in their 15 products. Palladio Beauty Group ranks eighth with an average of 2.58 harmful chemicals per product, originating from a substantial 4,022 harmful chemicals across 1,557 products, followed very closely by Exclusive Fragrances & Cosmetics, at ninth, averaging 2.51 harmful chemicals per product from 161 harmful chemicals in their 64 products. Finally, Charlotte Tilbury Beauty Ltd appears at tenth, averaging 2.4 harmful chemicals per product, with a notable 6,716 harmful chemicals identified across their 2,770 products.
 
@@ -54,6 +56,8 @@ The donut shape of the pie chart was achieved by creating a calculated field lab
 Finally, for enhanced readability and organization, the chemical names were sorted in descending order according to their chemical removal count.
 
 ## Analysis and Results: 
+
+![image](https://github.com/user-attachments/assets/7f5aa91b-5348-4504-98f0-c6fdbea53a2e)
 
 ### Titanium dioxide is the number one chemical removed:
 Titanium dioxide (TiO₂) is a widely used ingredient in cosmetics—especially in sunscreens, foundations, and powders—for its ability to reflect UV light and provide coverage. However, it's become a topic of concern in recent years, especially in certain forms. It can be very dangerous when inhaled so it needs to be removed, especially for safety of workers and consumers who could inhale it.
