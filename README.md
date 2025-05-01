@@ -70,6 +70,7 @@ We could look at what exact products these chemicals are found in and make furth
 
 # Tableau Packaged Workbook
 link to workbook: https://outlookuga-my.sharepoint.com/:u:/g/personal/ss37434_uga_edu/EWea_lEYTmdAi-AFX9rkm6YBgpRc8OOwsfDFns3MlMM9Aw?e=cGDdvO
+https://github.com/sruj-siva/mist4610project2/blob/main/MIST%204610%20Project%202%20Tableau%20Graphs.twbx
 
 
 
